@@ -10,3 +10,15 @@ D:\repos\sad boi bot\sad boi bot\bin\Debug\Newtonsoft.Json.dll
 D:\repos\sad boi bot\sad boi bot\bin\Debug\DSharpPlus.xml
 D:\repos\sad boi bot\sad boi bot\bin\Debug\Newtonsoft.Json.xml
 D:\repos\sad boi bot\sad boi bot\obj\Debug\sad boi bot.csproj.CopyComplete
+D:\Repositories\sad-boi-bot\sad boi bot\bin\Debug\sad boi bot.exe.config
+D:\Repositories\sad-boi-bot\sad boi bot\bin\Debug\sad boi bot.exe
+D:\Repositories\sad-boi-bot\sad boi bot\bin\Debug\sad boi bot.pdb
+D:\Repositories\sad-boi-bot\sad boi bot\bin\Debug\DSharpPlus.dll
+D:\Repositories\sad-boi-bot\sad boi bot\bin\Debug\Newtonsoft.Json.dll
+D:\Repositories\sad-boi-bot\sad boi bot\bin\Debug\DSharpPlus.xml
+D:\Repositories\sad-boi-bot\sad boi bot\bin\Debug\Newtonsoft.Json.xml
+D:\Repositories\sad-boi-bot\sad boi bot\obj\Debug\sad boi bot.csprojAssemblyReference.cache
+D:\Repositories\sad-boi-bot\sad boi bot\obj\Debug\sad boi bot.csproj.CoreCompileInputs.cache
+D:\Repositories\sad-boi-bot\sad boi bot\obj\Debug\sad boi bot.csproj.CopyComplete
+D:\Repositories\sad-boi-bot\sad boi bot\obj\Debug\sad boi bot.exe
+D:\Repositories\sad-boi-bot\sad boi bot\obj\Debug\sad boi bot.pdb
