@@ -1,0 +1,12 @@
+D:\repos\sad boi bot\sad boi bot\bin\Debug\sad boi bot.exe.config
+D:\repos\sad boi bot\sad boi bot\bin\Debug\sad boi bot.exe
+D:\repos\sad boi bot\sad boi bot\bin\Debug\sad boi bot.pdb
+D:\repos\sad boi bot\sad boi bot\obj\Debug\sad boi bot.csprojAssemblyReference.cache
+D:\repos\sad boi bot\sad boi bot\obj\Debug\sad boi bot.csproj.CoreCompileInputs.cache
+D:\repos\sad boi bot\sad boi bot\obj\Debug\sad boi bot.exe
+D:\repos\sad boi bot\sad boi bot\obj\Debug\sad boi bot.pdb
+D:\repos\sad boi bot\sad boi bot\bin\Debug\DSharpPlus.dll
+D:\repos\sad boi bot\sad boi bot\bin\Debug\Newtonsoft.Json.dll
+D:\repos\sad boi bot\sad boi bot\bin\Debug\DSharpPlus.xml
+D:\repos\sad boi bot\sad boi bot\bin\Debug\Newtonsoft.Json.xml
+D:\repos\sad boi bot\sad boi bot\obj\Debug\sad boi bot.csproj.CopyComplete
